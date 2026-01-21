@@ -854,7 +854,7 @@ video::-webkit-media-controls-volume-slider {
 .parcours-professionnel, 
 .parcours-academique, 
 .soft-skills {
-
+margin-top: 50px !important;
 width: 350px;             
     height: auto;
     margin: 0 auto;
@@ -2044,3 +2044,4 @@ width: 350px;
     opacity: 1;
   }
 }
+
