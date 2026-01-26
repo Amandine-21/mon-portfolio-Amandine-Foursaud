@@ -75,6 +75,10 @@ padding-left: 10px !important;
   pointer-events: auto;
 }
 
+.item-contact {
+  margin-bottom: 50px;
+}
+
 .fab-checkbox:checked ~ .fab-main {
   transform: rotate(135deg);
   background: #000000 !important;
@@ -2443,4 +2447,5 @@ width: 350px;
     opacity: 1;
   }
 }
+
 
