@@ -1948,6 +1948,7 @@ width: 350px;
     height: auto;
     margin-bottom: 40vh;
     z-index: -3;
+    margin:0 auto;
 }
 
 .page-cofeso {
@@ -2447,6 +2448,7 @@ width: 350px;
     opacity: 1;
   }
 }
+
 
 
 
