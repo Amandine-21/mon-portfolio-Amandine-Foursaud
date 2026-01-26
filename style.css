@@ -136,7 +136,7 @@ html {
     scroll-behavior: smooth;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 768px) and (max-width: 1024px) {
 
 
     .body, .container, .section-container {
@@ -1616,7 +1616,7 @@ width: 350px;
 .block-couleur-dailyfrog {
     width: 100%;
     height: auto;
-    min-height: 700px;
+    min-height: 100vh;
     max-width: 100%;
     position: sticky;
     margin-top: 0 !important;
@@ -2447,5 +2447,6 @@ width: 350px;
     opacity: 1;
   }
 }
+
 
 
